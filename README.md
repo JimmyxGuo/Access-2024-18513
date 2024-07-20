@@ -7,7 +7,5 @@ The datasets folder contains all the data used in our experiments, including 150
 Code:
 The code directory contains the Python scripts and Jupyter notebooks used for  model training and evaluation. 
 
-Algorithms:
 
-The algorithms section provides the pseudocode and detailed descriptions of the key algorithms employed in our study. This includes both forward and inverse modeling approaches for predicting etching profiles and identifying optimal process parameters.
 ![output](https://github.com/user-attachments/assets/f3bcffde-2a20-4566-8bf5-d87a76b577f5)
