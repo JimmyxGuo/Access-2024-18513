@@ -4,6 +4,10 @@ This GitHub repository contains all the essential resources for our study on opt
 Datasets:
 The datasets folder contains all the data used in our experiments, including 15000 simulation samples during the Cl2/HBr/O2 plasma etching simulation.
 
+Author's Note / Clarification on Loss Function
+Please note: In the published manuscript, there is a typographical error regarding the loss function. The text mentions "Mean Squared Error (MSE)"; however, the actual loss function implemented and optimized in our model is the Mean Absolute Error (MAE).
+
+
 Code:
 The code directory contains the Python scripts and Jupyter notebooks used for  model training and evaluation. 
 
